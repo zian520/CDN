@@ -1,3 +1,3 @@
-# net_picture
+# CDN
 
-A place which store Redorain's net picture.
+A place which store Redorain's net source by CDN-JSdelivr.
